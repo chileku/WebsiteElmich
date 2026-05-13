@@ -1,0 +1,52 @@
+[
+  {
+    "CategoryID": 1,
+    "CategoryName": "Bình giữ nhiệt",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 2,
+    "CategoryName": "Bình giữ nhiệt văn phòng",
+    "ParentID": 1
+  },
+  {
+    "CategoryID": 3,
+    "CategoryName": "Bình giữ nhiệt gia đình",
+    "ParentID": 1
+  },
+  {
+    "CategoryID": 4,
+    "CategoryName": "Bình giữ nhiệt thể thao",
+    "ParentID": 1
+  },
+  {
+    "CategoryID": 5,
+    "CategoryName": "Cốc giữ nhiệt",
+    "ParentID": 1
+  },
+  {
+    "CategoryID": 6,
+    "CategoryName": "Cốc giữ nhiệt",
+    "ParentID": 1
+  },
+  {
+    "CategoryID": 7,
+    "CategoryName": "hộp bảo quản",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 8,
+    "CategoryName": "hộp nhựa",
+    "ParentID": 7
+  },
+  {
+    "CategoryID": 9,
+    "CategoryName": "hộp inox",
+    "ParentID": 7
+  },
+  {
+    "CategoryID": 10,
+    "CategoryName": "hộp thủy tinh",
+    "ParentID": 7
+  }
+]

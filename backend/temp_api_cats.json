@@ -1,0 +1,62 @@
+[
+  {
+    "CategoryID": 42,
+    "CategoryName": "Chổi và hót rác",
+    "ParentID": 40,
+    "Slug": "choi-hot-rac"
+  },
+  {
+    "CategoryID": 41,
+    "CategoryName": "Bộ lau nhà",
+    "ParentID": 40,
+    "Slug": "bo-lau-nha"
+  },
+  {
+    "CategoryID": 40,
+    "CategoryName": "Dụng cụ vệ sinh",
+    "ParentID": null,
+    "Slug": "dung-cu-ve-sinh"
+  },
+  {
+    "CategoryID": 36,
+    "CategoryName": "Máy hút bụi",
+    "ParentID": 30,
+    "Slug": "may-hut-bui"
+  },
+  {
+    "CategoryID": 35,
+    "CategoryName": "Nồi cơm điện",
+    "ParentID": 30,
+    "Slug": "noi-com-dien"
+  },
+  {
+    "CategoryID": 34,
+    "CategoryName": "Lò vi sóng - Lò nướng",
+    "ParentID": 30,
+    "Slug": "lo-vi-song-lo-nuong"
+  },
+  {
+    "CategoryID": 33,
+    "CategoryName": "Ấm siêu tốc",
+    "ParentID": 30,
+    "Slug": "am-sieu-toc"
+  },
+  {
+    "CategoryID": 32,
+    "CategoryName": "Nồi chiên không dầu",
+    "ParentID": 30,
+    "Slug": "noi-chien-khong-dau"
+  },
+  {
+    "CategoryID": 31,
+    "CategoryName": "Máy xay sinh tố",
+    "ParentID": 30,
+    "Slug": "may-xay-sinh-to"
+  },
+  {
+    "CategoryID": 30,
+    "CategoryName": "Điện gia dụng",
+    "ParentID": null,
+    "Slug": "dien-gia-dung"
+  }
+]

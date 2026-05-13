@@ -1,0 +1,37 @@
+[
+  {
+    "CategoryID": 1,
+    "CategoryName": "Bình giữ nhiệt",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 7,
+    "CategoryName": "hộp bảo quản",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 14,
+    "CategoryName": "Nồi/chảo",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 30,
+    "CategoryName": "Điện gia dụng",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 40,
+    "CategoryName": "Dụng cụ vệ sinh",
+    "ParentID": null
+  },
+  {
+    "CategoryID": 41,
+    "CategoryName": "Bộ lau nhà",
+    "ParentID": 40
+  },
+  {
+    "CategoryID": 42,
+    "CategoryName": "Chổi và hót rác",
+    "ParentID": 40
+  }
+]
